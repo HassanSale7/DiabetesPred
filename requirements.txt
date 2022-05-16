@@ -2,7 +2,7 @@ adabelief_tf==0.2.1
 pandas==1.2.4
 tensorflow==2.5.0
 numpy==1.19.5
-joblib==1.2.0
+joblib
 plotly==4.14.3
 streamlit==0.82.0
 keras_nightly==2.5.0.dev2021032900
